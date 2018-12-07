@@ -2,19 +2,8 @@
 // Main File:        mem.c
 // This File:        mem.c
 // Other Files:      mem.h, Makefile, cpplint.py, CPPLINT.cfg, libmem.so, mem.o
-// Semester:         CS 354 Fall 2018
-//
 // Author:           Akshat Raika
 // Email:            raika@wisc.edu
-// CS Login:         raika
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          N/A
-//
-// Online sources:   N/A
 //////////////////////////// 80 columns wide ///////////////////////////////////
 #include <stdio.h>
 #include <unistd.h>
